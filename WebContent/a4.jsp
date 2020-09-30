@@ -17,7 +17,7 @@
             type: "get",
             async:true,
             //url: "https://api.asilu.com/geo/",
-            url: "http://cloud-demo-eureka-user-poc-java-demo.apps.ocp4.yilipoc.com/yyy",
+            url: "http://eureka-user-poc-java-2.apps.ocp4.yilipoc.com/yyy",
             contentType: 'application/json; charset=utf-8',
             //url:'http://localhost:8080/swj_salary/userInfo/jsonp.do',
             dataType: "jsonp",

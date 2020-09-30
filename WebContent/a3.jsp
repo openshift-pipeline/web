@@ -15,7 +15,7 @@
 		
     	$.ajax({
     		//url: "https://api.asilu.com/geo/",
-            url: "http://cloud-demo-eureka-user-poc-java-demo.apps.ocp4.yilipoc.com/xxx?vlaue=9999999999",
+            url: "http://eureka-user-poc-java-2.apps.ocp4.yilipoc.com/xxx?vlaue=9999999999",
             type : "GET",
 			contentType: 'application/json; charset=utf-8',
 			//jsonpCallback:"success_jsonpCallback",
